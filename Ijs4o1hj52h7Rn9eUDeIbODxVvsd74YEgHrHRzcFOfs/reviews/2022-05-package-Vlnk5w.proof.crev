@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-05-26T17:25:39.972815800+02:00"
+from:
+  id-type: crev
+  id: Ijs4o1hj52h7Rn9eUDeIbODxVvsd74YEgHrHRzcFOfs
+  url: "https://github.com/VincentFoulon80/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bitflags
+  version: 1.3.2
+  revision: ed185cfb1c447c1b4bd6ac021c9ec3bb02c9e2f2
+  digest: ZqIPoA53x3dJ0VY5mUUrEkCGsYYrzrzU_tGfSvZufh4
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Besides some macros manipulating attributes, the code is pretty straigtforward and benefits from a huge amount of tests
+----- SIGN CREV PROOF -----
+UW1ysD7ua_zpxO-vnlUuHT9wj5ez08HGM6qWgYacv_wqTHC95AQaOYg1oh1ynf9LNOOhXC18MKSrWOB5SkrpDg
+----- END CREV PROOF -----
+
