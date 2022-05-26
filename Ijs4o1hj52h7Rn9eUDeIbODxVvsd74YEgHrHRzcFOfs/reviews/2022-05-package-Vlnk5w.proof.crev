@@ -22,3 +22,27 @@ comment: |-
 UW1ysD7ua_zpxO-vnlUuHT9wj5ez08HGM6qWgYacv_wqTHC95AQaOYg1oh1ynf9LNOOhXC18MKSrWOB5SkrpDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-05-26T20:27:50.246201900+02:00"
+from:
+  id-type: crev
+  id: Ijs4o1hj52h7Rn9eUDeIbODxVvsd74YEgHrHRzcFOfs
+  url: "https://github.com/VincentFoulon80/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: signal-hook-mio
+  version: 0.2.3
+  revision: c7c68d41ffe63dbf6c4fa61a8d9be1aa59499e75
+  digest: E9-HuFut9z4abVoQlPts70A2WanIzjC__aqRZoLpbY0
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Straightforward crate
+----- SIGN CREV PROOF -----
+xmfmHRe18P0iSHcNPbMHcUPjtZVoBo6rD_nyVmwbn-DEmucehSMA5iPzBAtjIHakp0cAh-XeU3_LkJDYOF0TAg
+----- END CREV PROOF -----
+
