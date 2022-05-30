@@ -69,22 +69,6 @@ ad4BjCOCYt6I0HGDm8KaLprlo6ErKoURoEjzG5p4eWCiSA1OsOVY6pE3w3WY3y-vurOt7sIT7QhTrRXU
 ----- BEGIN CREV PROOF -----
 kind: trust
 version: -1
-date: "2022-05-30T20:28:32.313171800+02:00"
-from:
-  id-type: crev
-  id: Ijs4o1hj52h7Rn9eUDeIbODxVvsd74YEgHrHRzcFOfs
-  url: "https://github.com/VincentFoulon80/crev-proofs"
-ids:
-  - id-type: crev
-    id: rH6k4Foaqr8nM2IeNs2G2BTHEyLGD6kUn0suj89iCYk
-trust: none
------ SIGN CREV PROOF -----
-dLc2CPcU-YBQlAkkVU2C3fqPFpt7NbMkOP1Umno5028IqrLkQhUb65qdNJKzo1vZIGvyKfGQHap23imzCErVBw
------ END CREV PROOF -----
-
------ BEGIN CREV PROOF -----
-kind: trust
-version: -1
 date: "2022-05-30T20:29:28.737668500+02:00"
 from:
   id-type: crev
@@ -133,23 +117,6 @@ gQoJWdImK0mPqjJtEmthQmLiEGd9lBQnWwhq9Dci6ehqTzy8v8kqFLbzQ3XnUcGfZGhJGzCyVze_Qu24
 ----- BEGIN CREV PROOF -----
 kind: trust
 version: -1
-date: "2022-05-30T20:32:03.434543100+02:00"
-from:
-  id-type: crev
-  id: Ijs4o1hj52h7Rn9eUDeIbODxVvsd74YEgHrHRzcFOfs
-  url: "https://github.com/VincentFoulon80/crev-proofs"
-ids:
-  - id-type: crev
-    id: Ijs4o1hj52h7Rn9eUDeIbODxVvsd74YEgHrHRzcFOfs
-    url: "https://github.com/VincentFoulon80/crev-proofs"
-trust: none
------ SIGN CREV PROOF -----
-D9rxtOqnJ6s80wn6aCTdpnKn_St-qJmlc6TXaCaPa-kDl5Q0oO-nVE6EWvzeCVJd3VM33npl0ivEtK7DT6DdCw
------ END CREV PROOF -----
-
------ BEGIN CREV PROOF -----
-kind: trust
-version: -1
 date: "2022-05-30T20:32:54.663039200+02:00"
 from:
   id-type: crev
@@ -161,23 +128,6 @@ ids:
 trust: none
 ----- SIGN CREV PROOF -----
 q4AZkOYhP9CJ_TiZ8OIFxVeoYKKyy75c9MuxHXIZT8TPRVqk1mw-EZXS4rQYMd6pQhyyVlfejTUH_QEaidozBg
------ END CREV PROOF -----
-
------ BEGIN CREV PROOF -----
-kind: trust
-version: -1
-date: "2022-05-30T20:33:17.297295700+02:00"
-from:
-  id-type: crev
-  id: Ijs4o1hj52h7Rn9eUDeIbODxVvsd74YEgHrHRzcFOfs
-  url: "https://github.com/VincentFoulon80/crev-proofs"
-ids:
-  - id-type: crev
-    id: Ijs4o1hj52h7Rn9eUDeIbODxVvsd74YEgHrHRzcFOfs
-    url: "https://github.com/VincentFoulon80/crev-proofs"
-trust: high
------ SIGN CREV PROOF -----
-DXq9lWfger61GaCDMGPb2MdMKyq2at4nnxMg5vfMNL-g6vWIqnM6k-KyJIcIojNSQwUWJkRtc1KmegIem184Bg
 ----- END CREV PROOF -----
 
 ----- BEGIN CREV PROOF -----
