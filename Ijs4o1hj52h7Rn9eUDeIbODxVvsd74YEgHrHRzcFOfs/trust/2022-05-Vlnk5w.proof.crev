@@ -180,3 +180,19 @@ trust: high
 DXq9lWfger61GaCDMGPb2MdMKyq2at4nnxMg5vfMNL-g6vWIqnM6k-KyJIcIojNSQwUWJkRtc1KmegIem184Bg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-05-30T20:33:44.659787100+02:00"
+from:
+  id-type: crev
+  id: Ijs4o1hj52h7Rn9eUDeIbODxVvsd74YEgHrHRzcFOfs
+  url: "https://github.com/VincentFoulon80/crev-proofs"
+ids:
+  - id-type: crev
+    id: K5MUJP-IwlKlrOK69LqDBwIUilz2o-ZPDgOuoINNK0I
+trust: none
+----- SIGN CREV PROOF -----
+jFc89BZXYQdzJpdP9lf8mz_c91SeMaAnaVmJ2tw8c5E2LaL5h2vGTAwIHxBkhqpDqP-_a5lEsAtkMyUqZDhDBg
+----- END CREV PROOF -----
+
